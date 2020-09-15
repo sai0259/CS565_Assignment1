@@ -9,3 +9,5 @@ sample1.txt: probability information, format should be fixed if you want to use 
 Query.txt: query information, variable names should be ['IcyWeather', 'Battery', 'Radio', 'Ignition', 'StarterMotor', 'Gas', 'Starts', 'Moves'] or ['IW', 'B', 'R', 'I', 'SM', 'G', 'S', 'M'], and status should be 'true' or 'false'
 
 sample1.png: a diagram of the structure of Bayesian network including probability information in sample1.txt
+
+Fall 2020 Homework 1.docx: the assignment sheet
