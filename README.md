@@ -10,4 +10,8 @@ Query.txt: query information, variable names should be ['IcyWeather', 'Battery',
 
 sample1.png: a diagram of the structure of Bayesian network including probability information in sample1.txt
 
+pomegranate-0.13.5: library 'pomegranate' files
+
+networkx-2.5-py3-none-any.whl, joblib-0.17.0-py3-none-any.whl: Among dependencies of the library 'pomegranate' (Cython (only if building from source), NumPy, SciPy, NetworkX, and joblib), wheel files for 'NetworkX' and 'joblib' are attached
+
 Fall 2020 Homework 1.docx: the assignment sheet
