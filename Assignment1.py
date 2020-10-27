@@ -1,3 +1,10 @@
+import os
+
+os.system('python install networkx-2.5-py3-none-any.whl')
+os.system('python install joblib-0.17.0-py3-none-any.whl')
+os.system('cd pomegranate-master')
+os.system('python setup.py install')
+
 from pomegranate import DiscreteDistribution, ConditionalProbabilityTable, Node
 from pomegranate.BayesianNetwork import BayesianNetwork
 
